@@ -1,0 +1,22 @@
+{
+  "name": "math-notes-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xkfngs/math-notes-js.git"
+  },
+  "author": "Christopher Stokes <christopherstokes@gmail.com> (https://github.com/xkfngs)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xkfngs/math-notes-js/issues"
+  },
+  "homepage": "https://github.com/xkfngs/math-notes-js#readme",
+  "dependencies": {
+    "MathJax-node": "^0.3.0"
+  }
+}
