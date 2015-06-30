@@ -2,4 +2,4 @@
 
 A simple tool to write math notes while my right hand heals.
 
-math-notes-js.herokuapp.com
+[math-notes-js.herokuapp.com](http://math-notes-js.herokuapp.com)
